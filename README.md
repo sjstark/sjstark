@@ -37,6 +37,7 @@ I'm a live events producer turned programmer. Looking to change the way people i
   </div>
 </p>
 
+<!--
 ### 📫 How to reach me:
 <p>
   <a href="https://www.linkedin.com/in/samueljamesstark/"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"> </a>
@@ -45,6 +46,21 @@ I'm a live events producer turned programmer. Looking to change the way people i
   <a href="mailto:SamStarkScenic@gmail.com"> <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"> </a>
   </p>
   
+  -->
+  <!-- Actual text -->
+
+Find me on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/S_J_Stark
+[2]: https://www.linkedin.com/in/samueljamesstark/
+
   
   
 
