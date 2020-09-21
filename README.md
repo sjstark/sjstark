@@ -38,4 +38,7 @@
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" />
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
+  <img alt="Rhino3D" src="https://img.shields.io/badge/-Rhino3D-801010?style=flat-square&logo=Rhinoceros&logoColor=white" />
+  <img alt="AutoCAD" src="https://img.shields.io/badge/-AutoCAD-C01E29?style=flat-square&logo=Autodesk&logoColor=white" />
+  <img alt="Vectorworks" src="https://img.shields.io/badge/-Vectorworks-A645B9?style=flat-square&logo=V&logoColor=white" />
 </p>
