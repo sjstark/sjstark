@@ -29,5 +29,5 @@ I'm a live events producer turned programmer. Looking to change the way people i
 </p>
 
 - 📫 How to reach me:
-  - <a href="https://www.linkedin.com/in/samueljamesstark/"> <img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"> </a>
+  - <a href="https://www.linkedin.com/in/samueljamesstark/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"> </a>
 
