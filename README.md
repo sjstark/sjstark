@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 - <img src="https://static.macupdate.com/products/9329/m/vectorworks-viewer-logo.png?v=1568294827" height="24"> Vectorworks
 - <img src="https://icon-library.com/images/autocad-icon/autocad-icon-6.jpg" height="24"> AutoCAD
 - <img src="https://cdn.shopify.com/s/files/1/0944/0000/files/appLogo_rhinoceros.png" height="24"> Rhion3D
-- <img src="https://cdn.iconscout.com/icon/free/png-256/adobe-illustrator-2522532-2132720.png" height="24"> Adobe Illustrator
-- <img src="https://cdn.iconscout.com/icon/free/png-256/adobe-photoshop-4-569303.png" height="24"> Adobe Photoshop
+- <img src="https://img.pngio.com/buy-adobe-education-contact-multiblue-and-receive-discounts-for-is-there-png-in-adobe-illustrator-600_600.png" height="24"> Adobe Illustrator
+- <img src="https://cdn.iconscout.com/icon/free/png-256/photoshop-8-226474.png" height="24"> Adobe Photoshop
   
 
 - 🎓 Carnegie Mellon University class of 2017
