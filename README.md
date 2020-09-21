@@ -43,10 +43,10 @@ I'm a live events producer turned programmer. Looking to change the way people i
   </div>
   <h4>Gaming</h4>
   <div>
-  <img alt="Discord: SJStark#2798" src="https://img.shields.io/badge/-SJStark#2798-7289DA?style=flat-square&logo=Discord&logoColor=white" />
+  <img alt="Discord: SJStark#2798" src="https://img.shields.io/badge/-SJStark%232798-7289DA?style=flat-square&logo=Discord&logoColor=white" />
   <a href="https://steamcommunity.com/id/SJStark/"><img alt="Steam: SJStark" src="https://img.shields.io/badge/-SJStark-000000?style=flat-square&logo=Steam&logoColor=white" /></a>
-  <img alt="Battle.net: SJStark#1335" src="https://img.shields.io/badge/-SJStark#1335-00AEFF?style=flat-square&logo=Battle.net&logoColor=white" />
-  <img alt="Riot: SJStark#1337" src="https://img.shields.io/badge/-SJStark#1337-D32936?style=flat-square&logoRiot-Games&logoColor=white" />
+  <img alt="Battle.net: SJStark#1335" src="https://img.shields.io/badge/-SJStark%231335-00AEFF?style=flat-square&logo=Battle.net&logoColor=white" />
+  <img alt="Riot: SJStark#1337" src="https://img.shields.io/badge/-SJStark%231337-D32936?style=flat-square&logoRiot-Games&logoColor=white" />
   </div>
 </p>
 <br>
