@@ -37,5 +37,5 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00&logo=Adobe-Illustrator&logoColor=white" />
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF&logo=Adobe%20Photoshop&logoColor=white" />
 </p>
