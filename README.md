@@ -35,6 +35,12 @@ I'm a live events producer turned programmer. Looking to change the way people i
   <img alt="AutoCAD" src="https://img.shields.io/badge/-AutoCAD-C01E29?style=flat-square&logo=Autodesk&logoColor=white" />
   <img alt="Vectorworks" src="https://img.shields.io/badge/-Vectorworks-A645B9?style=flat-square&logo=V&logoColor=white" />
   </div>
+  </div>
+  <h4>Operating Systems</h4>
+  <div>
+  <img alt="MacOS" src="https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=Apple&logoColor=white" />
+  <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />
+  </div>
 </p>
 <br>
 <br>
