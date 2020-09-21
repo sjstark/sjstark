@@ -49,19 +49,7 @@ I'm a live events producer turned programmer. Looking to change the way people i
   -->
   <!-- Actual text -->
 
-Find me on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/S_J_Stark
-[2]: https://www.linkedin.com/in/samueljamesstark/
-
-  
+<p align=center> Find me on <a href="https://www.linkedin.com/in/samueljamesstark/"><img alt="LinkedIn" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png"></a>
   
 
 <img src="./Footer.png" />
