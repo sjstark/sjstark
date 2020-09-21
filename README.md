@@ -1,6 +1,6 @@
 <img src="./Header.png" />
 
-## About Me
+# About Me
 I'm a live events producer turned programmer. Looking to change the way people interact online.
 
 - 🎓 Carnegie Mellon University class of 2017
