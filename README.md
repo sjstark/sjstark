@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About Me
 
 ### What's In MY Tool Kit
-  - <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100"> 
+  - <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="25"> 
 
 - 🎓 Carnegie Mellon University class of 2017
   - 🎭 BFA | Scenic Design for Theater
