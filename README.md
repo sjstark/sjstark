@@ -71,4 +71,4 @@ I'm a live events producer turned programmer. Looking to change the way people i
 <img src="./Footer2.png" />
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjstark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjstark" alt="Top Languages" align="center">
