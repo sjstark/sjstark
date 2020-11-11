@@ -69,6 +69,3 @@ I'm a live events producer turned programmer. Looking to change the way people i
   
 
 <img src="./Footer2.png" />
-  
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjstark" alt="Top Languages" align="center">
