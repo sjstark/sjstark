@@ -68,4 +68,4 @@ I'm a live events producer turned programmer. Looking to change the way people i
 <p align=center> Find me on <a href="https://www.linkedin.com/in/samueljamesstark/"><img alt="LinkedIn" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png"></a>
   
 
-<img src="./Footer2.png" />
+<img src="./Footer3.png" />
