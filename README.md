@@ -6,7 +6,7 @@ I'm a live events producer turned programmer. Looking to change the way people i
 - 🎓 Currently enrolled in App Academy Online
   - 💻 Learning tools for full-stack development
 - 🎓 Carnegie Mellon University class of 2017
-  - 🎭 BFA | [Scenic Design for Theater](https://www.samstarkscenicdesign.com/)
+  - 🎭 BFA | Scenic Design for Theater
   - 💻 Took intro to programming and found a new interest!
   - 💬 Ask me about [Spring Carnival and my Fraternity!](https://www.springcarnival.org/)
 - 💼 Former Experiential Marketing Technical Director for [NA Collective](https://www.na-collective.com/)
