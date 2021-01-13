@@ -24,6 +24,7 @@ I'm a live events producer turned programmer. Looking to change the way people i
   <a href="#"><img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" /></a>
   <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" /></a>
   <a href="https://redux.js.org/"><img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" /></a>
+  <a href="https://https://reactrouter.com//"><img alt="React Router" src="https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=React-Router&logoColor=white" /></a>
   <h5>Back End</h5>
   <a href="https://flask.palletsprojects.com/en/1.1.x/"><img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" /></a>
   <a href="https://expressjs.com/"><img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square" /></a>
