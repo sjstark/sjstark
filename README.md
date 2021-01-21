@@ -37,8 +37,8 @@ I'm a live events producer turned programmer. Looking to change the way people i
   </div>
   <h4>Design</h4>
   <div>
-  <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" /></a>
-  <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" /></a>
+  <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=black" /></a>
+  <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=black" /></a>
   </div>
   <h4>Drafting and Modelling</h4>
   <div>
