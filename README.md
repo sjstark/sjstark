@@ -16,7 +16,7 @@ I'm a live events producer turned programmer. Looking to change the way people i
   <h4>Software Development</h4>
   <div>
   <h5>Languages</h5>
-  <a href="#"><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=black" /></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" /></a>
   <h5>Front End</h5>
   <a href="#"><img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
