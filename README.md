@@ -44,7 +44,7 @@ I'm a live events producer turned programmer. Looking to change the way people i
   <div>
   <a href="#"><img alt="Rhino3D" src="https://img.shields.io/badge/-Rhino3D-801010?style=for-the-badge&logo=Rhinoceros&logoColor=white" /></a>
   <a href="#"><img alt="AutoCAD" src="https://img.shields.io/badge/-AutoCAD-C01E29?style=for-the-badge&logo=Autodesk&logoColor=white" /></a>
-  <a href="#"><img alt="Vectorworks" src="https://img.shields.io/badge/-Vectorworks-A645B9?style=for-the-badge&logo=V&logoColor=white" /></a>
+  <a href="#"><img alt="Vectorworks" src="https://img.shields.io/badge/-Vectorworks-000000?style=for-the-badge&logo=Vectorworks&logoColor=white" /></a>
   </div>
   </div>
   <h4>Operating Systems</h4>
