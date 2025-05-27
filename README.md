@@ -3,7 +3,7 @@
 # About Me
 I'm a live events producer turned programmer. Looking to change the way people interact online.
 
-- 💼 Front End Web Developer for [Bukwild](https://www.bukwild.com/)
+- 💼 Front End Web Developer for [Goodness, inc.](https://www.goodness.inc/) (formerly Bukwild)
 - 🎓 App Academy graduate
   - 💻 Learning tools for full-stack development
 - 🎓 Carnegie Mellon University class of 2017
