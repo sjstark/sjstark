@@ -9,7 +9,7 @@ I'm a live events producer turned programmer. Looking to change the way people i
 - 🎓 Carnegie Mellon University class of 2017
   - 🎭 BFA | Scenic Design for Theater
   - 💻 Took intro to programming and found a new interest!
-- 💼 Former Experiential Marketing Technical Director for [NA Collective](https://www.na-collective.com/)
+- 💼 Former Experiential Marketing Technical Director for [NA Collective](https://www.linkedin.com/company/na-collective)
 
 ### What's In My Tool Kit
 <p>
